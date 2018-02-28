@@ -1,3 +1,2 @@
 # chuecos_jenkins
-
-Release Jenkins
+Esto es el contenido del fichero README.md modificado.
